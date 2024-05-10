@@ -14,7 +14,7 @@ Power Point para diagramar.
 Link para o ebook: [a publicacao](https://www.linkedin.com/posts/isaac-santos-9b7a601a1_ebook-sobre-apis-produzido-por-isaac-santos-activity-7192592079464632320-vZgm?utm_source=share&utm_medium=member_desktop)
 
 
-## Reflexão
+## Processo de Criação
 Foi usado o mesmo prompts para titulo do ebook no Gemini como no ChatGpt, 
 e tive impressão de que o Gemini foi melhor para o titulo
 e Chatgpt para conteúdo.
